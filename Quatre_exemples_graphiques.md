@@ -2,7 +2,7 @@
 
 ## Spiralling Squares
 
-```Python
+```python
 from gturtle import *
 
 makeTurtle()
