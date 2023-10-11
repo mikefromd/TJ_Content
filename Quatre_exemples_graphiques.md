@@ -24,7 +24,7 @@ while True:
 - [ ] What does the line ```size += 1``` do to the value of the variable size?
 
 
-## Black triange with red border
+## Black triangle with red border
 
 ### The code script
 ```python
@@ -66,7 +66,7 @@ while True:
 ### The output
 ![gturtle example 3](Media/231011_gturtle_ex3.png)
 
-## Yellow Star
+## Yellow star
 ### The code script
 ```python
 from gturtle import *
@@ -93,7 +93,7 @@ fillPath()
 ![gturtle example 4](Media/231011_gturtle_ex4.png)
 
 
-## Koch kurve
+## Koch curve
 
 ### The code script
 ```python
