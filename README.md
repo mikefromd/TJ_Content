@@ -22,4 +22,4 @@ This [link](https://tigerjython.com/en) brings you to the homepage or TigerJytho
 **ATTENTION:** On the school computers you cannot install software from the internet. Only authorized software available on ```Netsoft``` can be installed.
 
 - [ ] Familiarize yourself with TigerJython and learn the basic *edit - save - run workflow*. 
-- [ ] Create your first artwork using turtle graphics with the gturtle library. You will find some examples to code in the file *Quatre exemples graphiques avec la librairie gturtle* that you find in this repository and can download to your computer.
+- [ ] Create your first artwork using turtle graphics with the gturtle library. You will find some examples to code in the [file](https://github.com/mikefromd/TJ_Content/blob/main/Quatre_exemples_graphiques.md) on this repository.
